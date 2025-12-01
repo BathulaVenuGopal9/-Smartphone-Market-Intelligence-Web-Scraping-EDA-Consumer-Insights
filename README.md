@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BathulaVenuGopal9/-Smartphone-Market-Intelligence-Web-Scraping-EDA-Consumer-Insights/main/banner.png" alt="Smartphone Market Intelligence Banner" width="100%">
+  <img src="https://github.com/BathulaVenuGopal9/-Smartphone-Market-Intelligence-Web-Scraping-EDA-Consumer-Insights/raw/main/18e35e2c-258d-4c28-9e49-aea17c4642a2.png" 
+       alt="Smartphone Market Intelligence Banner" width="100%">
 </p>
 
 #  Flipkart Smartphone Market — Exploratory Data Analysis (EDA)
