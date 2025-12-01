@@ -207,11 +207,11 @@ Data availability depends on website rendering and content structure at collecti
 
 These factors were managed effectively through preprocessing and domain-driven interpretation.
 
-## Future Enhancements
+# Future Enhancements
 
 This project can be extended with:
 
- 1. Predictive Modeling
+ ## Predictive Modeling
 
 Price prediction model (Regression)
 
@@ -219,19 +219,19 @@ Rating prediction or satisfaction forecasting
 
 Market segmentation using clustering
 
- 2. Automation
+## Automation
 
 Scheduled scraping pipeline
 
 Integration with Airflow / Cron for weekly updates
 
- 3. Dashboarding
+## Dashboarding
 
 Power BI / Tableau dashboards
 
 Interactive Python dashboards (Streamlit)
 
- 4. NLP-Based Insights
+ ## NLP-Based Insights
 
 Extract user sentiment from review text
 
